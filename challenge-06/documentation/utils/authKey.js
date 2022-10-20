@@ -1,0 +1,3 @@
+const authKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZhbHVlMSIsImxvZ2luRGF0ZSI6IjIwMjItMTAtMDdUMDQ6MTE6MTcuMjE3WiIsImlhdCI6MTY2NTExNTg3N30.U9_FYT8jMUwEreZrtIbMIX6cst_ZET7QKKd0Amn5iM0';
+
+module.exports = authKey;
